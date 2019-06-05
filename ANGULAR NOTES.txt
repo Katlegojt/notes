@@ -1,0 +1,26 @@
+create a new project
+= ng new NAME
+
+create a new component
+= ng g component NAME
+
+create a new service
+= ng g service NAME
+
+running the server
+= ng serve
+
+=============================================
+
+
+when injecting add to the constructer
+
+=============================================
+Input app
+---------
+COMPONENTS
+Menu
+login - form >> username, password & button
+Contact - 
+about - 
+===============================================
