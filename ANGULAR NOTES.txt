@@ -10,12 +10,12 @@ create a new service
 running the server
 = ng serve
 
-=============================================
+==================================================
 
 
-when injecting add to the constructer
+when injecting add the object to the constructer
 
-=============================================
+===================================================
 Input app
 ---------
 COMPONENTS
@@ -23,4 +23,26 @@ Menu
 login - form >> username, password & button
 Contact - 
 about - 
-===============================================
+===================================================
+
+*bootstrap
+-download files
+-use weblinks
+*angular material(modular base)
+-use npm command
+-native
+-download modules
+==================================================
+--------------------------------------------------\
+Resources:
+
+https://jsonplaceholder.typicode.com/
+https://codepen.io/
+https://codepen.io/ChristopherJack/pen/yWmBVE
+https://mdbootstrap.com
+
+---------------------------------------------------/
+||||||||||||||||||||||||||||||||||||||||||||||||||||
+Code Snippets
+
+import { FormsModule } from '@angular/forms'	
