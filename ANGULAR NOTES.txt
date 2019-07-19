@@ -32,16 +32,39 @@ about -
 -use npm command
 -native
 -download modules
+
+=========================================================================
+<--!IONIC-->
+
+ionic serve -- to run a project
+ionic g page -- generate a new page
+
+service & http & weather API at openweather @ C:\Users\CodeTribe\Desktop\CodeTribe\Ionic\WeatherApp
+
+firestore ionic example: https://ionicframework.com/blog/building-ionic-apps-with-firestore/
+
+Firebase
+add angulefirestoremodule to app modules
+inject angularfirstore
+
+
+===================================================
+GIT COMMANDS
+
+git log -- to check last commit
+git clone (name of repo) -- to download
+
 ==================================================
 --------------------------------------------------\
 Resources:
 
 https://jsonplaceholder.typicode.com/
 https://codepen.io/
-https://codepen.io/ChristopherJack/pen/yWmBVE
 https://mdbootstrap.com
+https://wallpaper.wiki
 
 ---------------------------------------------------/
+pk.eyJ1Ijoia2F5Z2VlIiwiYSI6ImNqeHEyNDhreTBtMXozbXA3aXVoYXAydHcifQ.uXTli-Z5LFoCZd7UcXmG-Q
 ||||||||||||||||||||||||||||||||||||||||||||||||||||
 Code Snippets
 
